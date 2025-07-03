@@ -1,0 +1,1 @@
+listen for autobiography make file name like part1,part2 .md and for article make file with name article1, article2 .md
