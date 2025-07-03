@@ -1,1 +1,1 @@
-hey ak see i did it what shit are you talking fhdskcmck see you.idiot 
+hey ak see i did it what shit are you talking see you idiot this is am writing with my phone
