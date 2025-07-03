@@ -1,3 +1,1 @@
-hey ak see i did it what shit are you talking see you idiot this is am writing with my phone
-see i am talented hey there you are a who 
-hiiiiiii ho
+hey ak see this is your one md file named autobiography ok and this is one separate file and when you click on part 1 it will shows you another file and similar with part 2 
