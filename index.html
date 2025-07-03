@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tantric Spirituality</title>
+  <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+  <div class="particles-container"></div>
+  <header class="hero">
+    <div class="hero-glow"></div>
+    <div class="mandala-bg">
+      <!-- Mandala SVG background -->
+      <svg width="100%" height="100%" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg" class="mandala-svg">
+        <circle cx="200" cy="200" r="180" stroke="#FF9933" stroke-width="2" fill="none"/>
+        <circle cx="200" cy="200" r="120" stroke="#FFD580" stroke-width="1.5" fill="none"/>
+        <circle cx="200" cy="200" r="60" stroke="#FF9933" stroke-width="1" fill="none"/>
+        <g opacity="0.2">
+          <path d="M200 40 L220 200 L200 360 L180 200 Z" fill="#FF9933"/>
+        </g>
+      </svg>
+    </div>
+    <span class="hero-om">&#2384;</span>
+    <div class="hero-content">
+      <h1 class="headline">So, Let's talk about the sensation you feel between your eyebrows</h1>
+      <p class="subtitle">A journey within, where silence meets sensation.</p>
+      <button class="cta-btn" onclick="beginJourneyEffect()">Begin Your Journey <span class="material-icons" style="vertical-align:middle;font-size:1.2em;">auto_awesome</span></button>
+    </div>
+    <svg class="wavy-divider" viewBox="0 0 1440 60" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0,30 Q360,60 720,30 T1440,30 V60 H0 Z" fill="#fff7e6"/></svg>
+  </header>
+  <main>
+    <section id="autobiography-section">
+      <h2 class="section-title animated-section-title"><span class="material-icons section-icon">person</span> Autobiography</h2>
+      <div id="autobiography" class="autobiography-list"></div>
+    </section>
+    <section id="spiritual-articles-section">
+      <h2 class="section-title animated-section-title"><span class="material-icons section-icon">self_improvement</span> Articles About Spiritual Journey</h2>
+      <div id="articles" class="articles-list"></div>
+    </section>
+  </main>
+  <footer>
+    <div class="footer-thankyou" style="color: #FF9933; font-weight: bold; font-family: 'Cormorant Garamond', serif; font-size: 1.2em; display: flex; align-items: center; justify-content: center; gap: 0.5em;">
+      <span>🙏</span> Thank you
+    </div>
+    <div class="footer-line"></div>
+    <div class="footer-content">
+      <span class="footer-quote">Tat Tvam Asi — You are That.</span>
+      <span class="footer-om">&#2384;</span>
+    </div>
+    <span class="footer-floating-om">&#2384;</span>
+  </footer>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html> 
