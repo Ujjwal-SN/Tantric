@@ -1,1 +1,1 @@
-Ok so this is another separate file from autobiography 
+Ok so this is another separate file from autobiography ok boss
